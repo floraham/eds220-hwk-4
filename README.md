@@ -19,8 +19,8 @@ This is a subset of the US Census Bureau's 2016 TIGER database, which only has t
 
 
 ## **Task 2: Thomas Fire False Color Map:**
-- Title: False Color Map
-- Short explanation of the goal/purpose of the repository: Using Landsat & false color imagery we identify the burn scar of the Thomas fire within the fire perimeter. 
+- Title: False Color Map of Thomas Fire burn scar
+- Goal/purpose of the repository: Using Landsat & false color imagery we identify the burn scar of the Thomas fire within the fire perimeter. 
 
 - Data citation: 
 
